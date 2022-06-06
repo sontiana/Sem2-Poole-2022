@@ -1,0 +1,5 @@
+x = str(input("What is your name? "))
+print("Happy Brithday to you")
+print("Happy Birthday to you")
+print("Happy Birthday to you " + x)
+print("Happy Birthday to you")
